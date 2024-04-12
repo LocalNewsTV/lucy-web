@@ -1,4 +1,6 @@
 water_body_name,water_body_longitude,water_body_latitude,country_code,province_code,closest_city,distance
+Snake River,-114.4468924,2.59945215,USA,ID,Twin Falls,0.273
+Osoyoos Lake,-119.4289738,48.95280105,USA,WA,Oroville,0
 Andrew Lake,-110.11712,59.88449,CAN,AB,Fort Smith,111
 Athabasca,-113.87344,55.4061,CAN,AB,Slave Lake,53.4
 Athabasca River,-111.32652,58.52027,CAN,AB,Fort Chipewyan,31.7
